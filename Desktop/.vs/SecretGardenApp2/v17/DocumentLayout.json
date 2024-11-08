@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\newsg\\SecretGardenApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD01F546-B4DD-4AAB-A49D-4DCDC2B292D7}|SecretGardenApp2\\SecretGardenApp2.csproj|c:\\users\\lenovo\\onedrive\\desktop\\newsg\\secretgardenapp2\\secretgardenapp2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD01F546-B4DD-4AAB-A49D-4DCDC2B292D7}|SecretGardenApp2\\SecretGardenApp2.csproj|solutionrelative:secretgardenapp2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD01F546-B4DD-4AAB-A49D-4DCDC2B292D7}|SecretGardenApp2\\SecretGardenApp2.csproj|C:\\Users\\LENOVO\\OneDrive\\Desktop\\newsg\\SecretGardenApp2\\secretgardenapp2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD01F546-B4DD-4AAB-A49D-4DCDC2B292D7}|SecretGardenApp2\\SecretGardenApp2.csproj|solutionrelative:secretgardenapp2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E660D8E0-B387-4A94-814D-1A551A99AAE3}|..\\SG_Server_Interface\\SG_Server_Interface.csproj|c:\\users\\lenovo\\onedrive\\desktop\\newsg\\sg_server_interface\\apiinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\newsg\\SecretGardenApp2\\SecretGardenApp2\\MainForm.cs",
+              "RelativeDocumentMoniker": "SecretGardenApp2\\MainForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\newsg\\SecretGardenApp2\\SecretGardenApp2\\MainForm.cs",
+              "RelativeToolTip": "SecretGardenApp2\\MainForm.cs",
+              "ViewState": "AQIAAFQEAAAAZmZmZoYwwIoEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:50:56.035Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\newsg\\SecretGardenApp2\\SecretGardenApp2\\MainForm.cs",
+              "RelativeDocumentMoniker": "SecretGardenApp2\\MainForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\newsg\\SecretGardenApp2\\SecretGardenApp2\\MainForm.cs [Design]",
+              "RelativeToolTip": "SecretGardenApp2\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:50:30.885Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "APIInterface.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\newsg\\SG_Server_Interface\\APIInterface.cs",
+              "RelativeDocumentMoniker": "..\\SG_Server_Interface\\APIInterface.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\newsg\\SG_Server_Interface\\APIInterface.cs",
+              "RelativeToolTip": "..\\SG_Server_Interface\\APIInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:16:11.317Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
